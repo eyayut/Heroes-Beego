@@ -1,0 +1,12 @@
+bin
+pkg
+
+!etc/
+!src/
+src/*
+!src/Heros-Api
+
+
+
+
+
